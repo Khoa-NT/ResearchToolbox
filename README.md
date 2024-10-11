@@ -2,6 +2,11 @@
 Collection of essential tools, tricks and scripts used for research and development.
 
 
+## Reading/Summarize papers
+- [NotebookLM - Google](https://notebooklm.google.com/)
+- [Illuminate - Google](https://illuminate.google.com/)
+
+
 ## VSCode
 ### Setup
 - Connect to remote server: [Link](https://code.visualstudio.com/docs/remote/ssh)
