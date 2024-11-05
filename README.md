@@ -18,8 +18,10 @@ Open VSCode in browser by pressing `.`, then download the subdirectory from navi
 ## VSCode
 ### Setup
 - Connect to remote server: [Link](https://code.visualstudio.com/docs/remote/ssh)
+
 ### Trick
 - Open VSCODE in browser from GitHub: Press `.`
+- Master VS Code's keyboard shortcuts in 13 minutes: [Video](https://www.youtube.com/watch?v=nWIRJBCjls8)
 
 
 <!--  -->
