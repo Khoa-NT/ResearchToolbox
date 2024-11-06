@@ -3,6 +3,12 @@ Collection of essential tools, tricks and scripts used for research and developm
 
 <!--  -->
 ## Reading/Summarize papers
+
+For reading papers:
+- Install [Google Scholar PDF Reader](https://chromewebstore.google.com/detail/google-scholar-pdf-reader/dahenjhkoodjbpjheillcadbppiidmhp) to read online PDF papers, e.g., from ArXiv.
+
+
+For summarizing papers and generating podcast:
 - [NotebookLM - Google](https://notebooklm.google.com/)
 - [Illuminate - Google](https://illuminate.google.com/)
 
