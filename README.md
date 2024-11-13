@@ -42,7 +42,7 @@ Open VSCode in browser by pressing `.`, then download the subdirectory from navi
 - [lilianweng.github.io](https://lilianweng.github.io/)
 - [ayandas.me](https://ayandas.me/blogs.html)
 - [theaisummer](https://theaisummer.com/learn-ai/)
+- [MICCAI Educational Challenge Materials](https://miccai-sb.github.io/materials.html)
 
 ### Explaination
-- AI by Hand ✍️ Exercises in Excel from [Tom Yeh](https://x.com/ProfTomYeh): 
-[Link](https://github.com/ImagineAILab/ai-by-hand-excel)
+- AI by Hand ✍️ Exercises in Excel from [Tom Yeh](https://x.com/ProfTomYeh) ([Link github](https://github.com/ImagineAILab/ai-by-hand-excel))
