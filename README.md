@@ -30,7 +30,10 @@ Open VSCode in browser by pressing `.`, then download the subdirectory from navi
 ### Trick
 - Open VSCODE in browser from GitHub: Press `.`
 - Master VS Code's keyboard shortcuts in 13 minutes: [Video](https://www.youtube.com/watch?v=nWIRJBCjls8)
-
+- Open Tensorboard:  
+    - Run `tensorboard --bind_all --reload_multifile True --samples_per_plugin images=300 --port <your_port> --logdir=.`  
+    - Then go to tab `Ports` in VSCode, and add `<your_port>`  
+    - Open web browser and go to `http://localhost:<your_port>`  
 
 <!--  -->
 ## Book
