@@ -8,6 +8,10 @@
 <br />
 
 # Explaination / Visualization
+- [Understanding and Coding the Self-Attention Mechanism of Large Language Models From Scratch](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html) from [Sebastian Raschka](https://sebastianraschka.com/)
+
+<br />
+
 - [Transformer Explainer](https://poloclub.github.io/transformer-explainer/)
     <details><summary>Click to show image</summary>
 
