@@ -9,6 +9,10 @@
 
 # Explaination / Visualization
 - [Understanding and Coding the Self-Attention Mechanism of Large Language Models From Scratch](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html) from [Sebastian Raschka](https://sebastianraschka.com/)
+    <details><summary>Click to show image</summary> 
+
+    ![alt text](src/Sebastian_Raschka_1.png)
+    </details>
 
 <br />
 
