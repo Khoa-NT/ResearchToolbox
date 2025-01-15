@@ -11,6 +11,16 @@ Collection of essential tools, tricks and scripts used for research and developm
 ([Source](https://github.com/google-research/google-research/blob/master/README.md)): 
 Open VSCode in browser by pressing `.`, then download the subdirectory from navigation panel.
 
+### Personal website
+
++ [Hugo](https://gohugo.io/)
++ Towaki Takikawa's template: [Link](https://github.com/tovacinni/research-website-template)
++ Jon Barron's template: [Link](https://github.com/jonbarron/website)
++ Eric Brachmann's template: [Link](https://github.com/ebrach/ebrach.github.io)
+
+Other templates:
++ [Academic Pages](https://github.com/academicpages/academicpages.github.io)
+
 
 <!--  -->
 ## VSCode
