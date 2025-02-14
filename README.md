@@ -7,6 +7,8 @@ Collection of essential tools, tricks and scripts used for research and developm
 
 <!--  -->
 ## GitHub
+- Learn Git: [Link](https://github.com/git-guides)
+- Git cheat sheet: [from Prof.Francisco Martín Rico](Git/src/cheat_sheet_1.pdf)
 - Download only the subdirectory of interest 
 ([Source](https://github.com/google-research/google-research/blob/master/README.md)): 
 Open VSCode in browser by pressing `.`, then download the subdirectory from navigation panel.
