@@ -1,4 +1,4 @@
-# Research Tool box
+# Research Toolbox
 Collection of essential tools, tricks and scripts used for research and development.
 
 <!--  -->
