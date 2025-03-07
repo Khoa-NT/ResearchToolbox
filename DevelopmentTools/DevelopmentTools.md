@@ -3,6 +3,7 @@
 
 <!--  -->
 ## GitHub
+
 - Learn Git: [Link](https://github.com/git-guides)
 - Git cheat sheet: [from Prof.Francisco Martín Rico](Git/src/cheat_sheet_1.pdf)
 - Download only the subdirectory of interest 
@@ -25,7 +26,10 @@ Open VSCode in browser by pressing `.`, then download the subdirectory from navi
     - Open web browser and go to `http://localhost:<your_port>`  
 
 
+
+<!--  -->
 ## Tmux
+
 - Website: [Link](https://github.com/tmux/tmux/wiki)
 - Getting Started: [Link](https://github.com/tmux/tmux/wiki/Getting-Started)
 - Cheat Sheet: [Link](https://gist.github.com/MohamedAlaa/2961058)
@@ -33,7 +37,9 @@ Open VSCode in browser by pressing `.`, then download the subdirectory from navi
 
 
 
+<!--  -->
 ## PyTorch
+
 ### Tensorboard
 - Tutorial: [Link](https://pytorch.org/docs/stable/tensorboard.html)
 
