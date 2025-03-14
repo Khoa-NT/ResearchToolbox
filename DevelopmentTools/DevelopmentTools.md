@@ -40,6 +40,10 @@ Open VSCode in browser by pressing `.`, then download the subdirectory from navi
 <!--  -->
 ## PyTorch
 
+### Tools
+Use [PyTorch Landscape](https://landscape.pytorch.org/) to find the best tools for your project ([Pytorch Blog](https://pytorch.org/blog/pytorch-landscape/)).
+Note that some tools are set as `archived` in the landscape but are still active and useful.
+
 ### Tensorboard
 - Tutorial: [Link](https://pytorch.org/docs/stable/tensorboard.html)
 
