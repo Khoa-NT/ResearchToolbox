@@ -34,6 +34,17 @@ Open VSCode in browser by pressing `.`, then download the subdirectory from navi
 - Getting Started: [Link](https://github.com/tmux/tmux/wiki/Getting-Started)
 - Cheat Sheet: [Link](https://gist.github.com/MohamedAlaa/2961058)
 
+Useful commands:
+- `C-b d` Detach from tmux session.
+- `C-b %` Split pane vertically.
+- `C-b "` Split pane horizontally.
+- `C-b arrow_key` Move around panes.
+- `C-b z` Toggle between pane and full screen.
+- `C-b c` Create a new pane.
+- `C-b x` or `C-b &` Close the current pane.
+- `C-b E` Spreads panes out evenly.
+- `C-b [0-9]` Switch to pane `0-9`.
+- `C-b s` Show all panes. `q` to quit.
 
 
 
