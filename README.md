@@ -38,6 +38,10 @@ Other templates:
 - [theaisummer](https://theaisummer.com/learn-ai/)
 - [MICCAI Educational Challenge Materials](https://miccai-sb.github.io/materials.html)
 
+## Math
+- [gregorygundersen blog](https://gregorygundersen.com/blog/)
+
+
 ### Explaination
 - AI by Hand ✍️ Exercises in Excel from [Tom Yeh](https://x.com/ProfTomYeh) ([Link github](https://github.com/ImagineAILab/ai-by-hand-excel))
 
