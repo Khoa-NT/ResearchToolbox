@@ -43,9 +43,28 @@ Useful commands:
 - `C-b c` Create a new pane.
 - `C-b x` or `C-b &` Close the current pane.
 - `C-b E` Spreads panes out evenly.
+- `C-b space` one-time spread panes out evenly.
 - `C-b [0-9]` Switch to pane `0-9`.
 - `C-b s` Show all panes. `q` to quit.
 
+
+
+<!--  -->
+## Python
+
+### breakpoint()
+
+When you're inside the pdb prompt ((Pdb)), you can type commands like:
+
+| Command | Description |
+|---------|-------------|
+| `h` | Help (list all commands) |
+| `n` | Next line (step over) |
+| `s` | Step into function |
+| `c` | Continue execution |
+| `q` | Quit the debugger |
+| `p x` | Print the value of variable x |
+| `l` | List source code near the line |
 
 
 <!--  -->
