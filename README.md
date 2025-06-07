@@ -42,6 +42,7 @@ Other templates:
 - [ayandas.me](https://ayandas.me/blogs.html)
 - [theaisummer](https://theaisummer.com/learn-ai/)
 - [MICCAI Educational Challenge Materials](https://miccai-sb.github.io/materials.html)
+- [ICLR Blog posts (2022 ~ 2025)](https://iclr-blogposts.github.io/2025/blog/index.html)
 
 ### Math
 - [gregorygundersen blog](https://gregorygundersen.com/blog/)
