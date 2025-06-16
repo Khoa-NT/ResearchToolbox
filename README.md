@@ -44,6 +44,11 @@ Other templates:
 - [MICCAI Educational Challenge Materials](https://miccai-sb.github.io/materials.html)
 - [ICLR Blog posts (2022 ~ 2025)](https://iclr-blogposts.github.io/2025/blog/index.html)
 
+
+### Awesome List
+- [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) (from Prof.Jia-Bin Huang): Good resources for computer vision + [resources for students](https://github.com/jbhuang0604/awesome-computer-vision?tab=readme-ov-file#resources-for-students)
+- [Awesome Implicit Neural Representations](https://github.com/vsitzmann/awesome-implicit-representations/tree/main) (from Prof.Vincent Sitzmann): Good resources for implicit neural representations
+
 ### Math
 - [gregorygundersen blog](https://gregorygundersen.com/blog/)
 
