@@ -46,7 +46,7 @@ Other templates:
 
 
 ### Awesome List
-- [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) (from Prof.Jia-Bin Huang): Good resources for computer vision + [resources for students](https://github.com/jbhuang0604/awesome-computer-vision?tab=readme-ov-file#resources-for-students)
+- [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) (from Prof.Jia-Bin Huang): Good resources for computer vision + [resources for students](https://github.com/jbhuang0604/awesome-computer-vision?tab=readme-ov-file#resources-for-students). And also, his [awesome-tips](https://github.com/jbhuang0604/awesome-tips) for doing research.
 - [Awesome Implicit Neural Representations](https://github.com/vsitzmann/awesome-implicit-representations/tree/main) (from Prof.Vincent Sitzmann): Good resources for implicit neural representations
 
 ### Math
