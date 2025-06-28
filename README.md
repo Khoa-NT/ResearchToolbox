@@ -38,12 +38,19 @@ Other templates:
 
 <!--  -->
 ## Online resources
+
+- [MICCAI Educational Challenge Materials](https://miccai-sb.github.io/materials.html)
+
+### Blogs
+- [ICLR Blog posts (2022 ~ 2025)](https://iclr-blogposts.github.io/2025/blog/index.html)
 - [lilianweng.github.io](https://lilianweng.github.io/)
+- [colah.github.io](https://colah.github.io/)
 - [ayandas.me](https://ayandas.me/blogs.html)
 - [theaisummer](https://theaisummer.com/learn-ai/)
-- [MICCAI Educational Challenge Materials](https://miccai-sb.github.io/materials.html)
-- [ICLR Blog posts (2022 ~ 2025)](https://iclr-blogposts.github.io/2025/blog/index.html)
-
+- [distill.pub](https://distill.pub/)
+- [erdem.pl](https://erdem.pl/recent)
+- [blog.ezyang.com](https://blog.ezyang.com/)
+- [main-horse.github.io](https://main-horse.github.io/posts/)
 
 ### Awesome List
 - [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) (from Prof.Jia-Bin Huang): Good resources for computer vision + [resources for students](https://github.com/jbhuang0604/awesome-computer-vision?tab=readme-ov-file#resources-for-students). 
