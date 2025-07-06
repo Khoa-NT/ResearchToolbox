@@ -65,6 +65,11 @@ And also, his [youtube channel](https://www.youtube.com/@jbhuang0604) is a good 
 ### Explaination
 - AI by Hand ✍️ Exercises in Excel from [Tom Yeh](https://x.com/ProfTomYeh) ([Link github](https://github.com/ImagineAILab/ai-by-hand-excel))
 
+
+### PyTorch
+- [PyTorch in One Hour: From Tensors to Multi-GPU Training (by Sebastian Raschka)](https://sebastianraschka.com/teaching/pytorch-1h/)
+
+
 ### Transformers / Vision Transformer
 - Go to [Transformers.md](Transformer/Transformers.md)
 
