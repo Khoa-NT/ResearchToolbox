@@ -46,6 +46,8 @@ Useful commands:
 - `C-b space` one-time spread panes out evenly.
 - `C-b [0-9]` Switch to pane `0-9`.
 - `C-b s` Show all panes. `q` to quit.
+- `C-b q` Show pane number.
+
 
 
 
