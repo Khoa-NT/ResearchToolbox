@@ -62,6 +62,11 @@ And also, his [awesome-tips](https://github.com/jbhuang0604/awesome-tips) for do
 And also, his [youtube channel](https://www.youtube.com/@jbhuang0604) is a good source of learning.
 - [Awesome Implicit Neural Representations](https://github.com/vsitzmann/awesome-implicit-representations/tree/main) (from [Prof.Vincent Sitzmann](https://www.vincentsitzmann.com/)): Good resources for implicit neural representations
 
+### Advice Collection
+
+- A LONG list of Categorized Advice Collection (Maintained by Tao Xie and Yuan Xie) (Ph.D./research, presentation, writing, reviewing, faculty, job hunting, misc., English advice): [Link](https://taoxie.cs.illinois.edu/advice.htm)
+
+
 ### Math
 - [gregorygundersen blog](https://gregorygundersen.com/blog/)
 
