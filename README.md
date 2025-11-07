@@ -31,8 +31,9 @@ Other templates:
 
 <!--  -->
 ## Book
-My collection of open-public books: [Link](https://ntkhoa.notion.site/4affd80b09454ba0a37132bd5c1d59e0?v=fb51a179ebd34c4d914e605b222a0fc5&pvs=4)
+- My collection of open-public books: [Link](https://ntkhoa.notion.site/4affd80b09454ba0a37132bd5c1d59e0?v=fb51a179ebd34c4d914e605b222a0fc5&pvs=4)
 
+- The Art of Debugging Open Book: [Link](https://github.com/stas00/the-art-of-debugging) (debugging Python, PyTorch)
 
 <!--  -->
 ## Datasets
