@@ -1,8 +1,8 @@
 # People
 
 ## [Lucas Beyer](https://lucasb.eyer.be/#home) (Twitter: [@lucasbey](https://x.com/giffmana))
-- Transformer tutorial slides (must-read): [Link](http://lucasb.eyer.be/transformer)
-- [Talks Collection](https://lucasb.eyer.be/snips/talks.html)
+- Transformer tutorial from "07.2024 ICML DMLR workshop" keynote (must-read): [slides](http://lucasb.eyer.be/transformer) - [Video](https://icml.cc/virtual/2024/38298)
+- [Other talks collection](https://lucasb.eyer.be/snips/talks.html)
 
 
 <br />
@@ -39,6 +39,15 @@
     </details>
 
 <br />
+
+- [Formal Algorithms for Transformers](https://arxiv.org/abs/2207.09238)
+    <details><summary>Click to show image</summary> 
+
+    ![alt text](src/image-3.jpg)
+    </details>
+
+<br />
+
 
 # Practice
 - [Transformer Puzzles](https://github.com/srush/Transformer-Puzzles) from [Professor Alexander Rush](https://rush-nlp.com/). Also check out his [Puzzle collection](https://github.com/srush?tab=repositories&q=Puzzles&type=&language=&sort=).
