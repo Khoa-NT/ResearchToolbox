@@ -7,6 +7,19 @@
 
 <br />
 
+# Videos
+Prof. Jia-Bin Huang's videos:
+- [How Attention Got So Efficient](https://www.youtube.com/watch?v=Y-o545eYjXM)
+- [Beyond Softmax: The Future of Attention Mechanisms](https://www.youtube.com/watch?v=pUCWwGR5WmQ)
+
+<br />
+
+3Blue1Brown's videos starting from `Large Language Models explained briefly`, then from chapter `5` to `7`:
+- [Large Language Models explained briefly](https://www.youtube.com/watch?v=LPZh9BOjkQs&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=5)
+
+
+<br />
+
 # Explaination / Visualization
 - [Understanding and Coding the Self-Attention Mechanism of Large Language Models From Scratch](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html) from [Sebastian Raschka](https://sebastianraschka.com/)
     <details><summary>Click to show image</summary> 
