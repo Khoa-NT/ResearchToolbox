@@ -64,3 +64,20 @@ Prof. Jia-Bin Huang's videos:
 
 # Practice
 - [Transformer Puzzles](https://github.com/srush/Transformer-Puzzles) from [Professor Alexander Rush](https://rush-nlp.com/). Also check out his [Puzzle collection](https://github.com/srush?tab=repositories&q=Puzzles&type=&language=&sort=).
+
+
+
+
+
+
+
+# Paper
+
+- [TRANSFORMER COOKBOOK](https://openreview.net/forum?id=sPshCSvDrX)
+
+- [Formal Algorithms for Transformers](https://arxiv.org/abs/2207.09238)
+
+
+# Blog 
+
+- [Thinking Like Transformers](https://srush.github.io/raspy/)
